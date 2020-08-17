@@ -1,0 +1,50 @@
+.test {
+    border: 1px solid black;
+    max-height: 500px;
+    overflow-y: scroll;
+}
+
+.test p {
+    padding: 15px;
+    background-color: #f3f3f3;
+}
+
+.MessageForm {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.MessageForm form {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid grey;
+    padding: 2px;
+}
+
+.MessageForm form input {
+    flex-grow: 2;
+    border: none;
+}
+
+input:focus {
+    outline: none;
+}
+
+button {
+    /*border: 1px solid blue;*/
+    border: none;
+    background-color: transparent;
+    color: black;
+}
+
+
+
+.signupForm form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.signupForm form input {
+    margin: 5px;
+}
