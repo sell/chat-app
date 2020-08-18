@@ -23,3 +23,30 @@ Updated in live time
         </ul>
     </li>
 </ul>
+
+<hr>
+Starting:
+<ul>
+    <li>Client
+        <ul>
+            <li>npm run start</li>
+        </ul>
+    </li>
+    <li>Backend
+        <ul>
+            <li>npm run dev</li>
+        </ul>
+    </li>
+</ul>
+
+<hr>
+Signing Up
+<ul>
+    <li>http://localhost:3000/</li>
+</ul>
+
+Logging in
+<ul>
+    <li>http://localhost:3000/chat</li>
+</ul>
+
